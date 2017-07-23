@@ -1,0 +1,27 @@
+{
+  "name": "tunely",
+  "version": "1.0.0",
+  "description": "An app for tracking a music collection.",
+  "main": "server.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NrupM/tunely.git"
+  },
+  "author": "Mary Northrup",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NrupM/tunely/issues"
+  },
+  "homepage": "https://github.com/NrupM/tunely#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.11.3"
+  }
+}
